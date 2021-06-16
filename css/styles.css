@@ -177,6 +177,7 @@ body{
   background-repeat: no-repeat;
   background-color: #C4C4C4;
   background-size: 1600px;
+  background-position: center;
 }
 .hero-title{
   font-weight: 900;
